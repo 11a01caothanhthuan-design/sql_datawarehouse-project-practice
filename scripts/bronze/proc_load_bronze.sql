@@ -43,7 +43,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
@@ -58,7 +57,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
@@ -73,7 +71,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
@@ -95,7 +92,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
@@ -110,7 +106,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
@@ -125,7 +120,6 @@ BEGIN
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '\n',
 			TABLOCK
 		);
 		SET @end_time = GETDATE();
